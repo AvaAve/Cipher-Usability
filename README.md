@@ -1,5 +1,4 @@
-# Cipher Usability Starter Code
-This is a place for you to start building your Cipher Usability Project!
+This is the Cipher Usability project I created during the Girls Who Code 2025 Summer Pathways Program. The Cipher Usability project is basically an upgrade/continuation of "Programming Caesar's Cipher", but its own project. This cipher tool allows for the encryption and decryption of accepted messages, which now includes a wider selection of characters. Enhancements for this project include the added avaliable characters for use in the input message prompt, and that the key selection now goes up to 93 instead of 25. I always have a bit of trouble with these conditionals and the loops, I'm also still learning proper organization for my code, so that's a bit of a slowdown. But with every project I make, I get a little more familiar with the code used in it and how to make my own in the future. Originally created on Replit in Python, Cipher Usability is the fourth of five Python Cybersecurity projects from Pathways.
 
 ### Project Requirements
 Your project should:
